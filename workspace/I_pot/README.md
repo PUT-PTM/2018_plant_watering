@@ -1,9 +1,9 @@
 # *IPot*
 
-##Overview
+## Overview
 The project of a simple watering system with humidity measurement based on STM32F4-DISCOVERY board.  [STMIPot] (https://github.com/PUT-PTM/2018_plant_watering). [The movies] (https://drive.google.com/file/d/1kGmeSqZCRVhO3qLcpNGLJXfvGC6VG8cg/view?usp=sharing) show the project of a simple watering system with humidity measurement.
 
-##Description
+## Description
 The project consists of:
 - STM32F4-Discovery board,
 - moisture sensor,
@@ -13,10 +13,10 @@ The project consists of:
 
 Moisture level when pump is set on can be set via IDE, after compiling
  
-##Tools
+## Tools
 System Workbench for STM32 IDE
 
-##How to run
+## How to run
 1. Connect STM32F4-DISCOVERY board with the Relay: 
   *  VDD  -  5V
   *  GND  -  GND
@@ -42,18 +42,18 @@ System Workbench for STM32 IDE
 
  
  
-##How to compile
+## How to compile
 Download the project and compile it with System Workbench for STM32 IDE.
 
 
-##Attributions
+## Attributions
 * http://www.st.com/en/embedded-software/stm32-standard-peripheral-libraries.html?querycriteria=productId=LN1939
 
 
-##License
+## License
 MIT
 
-##Credits
+## Credits
 * Cezary Czekalski
 
 The project was conducted during the Microprocessor Lab course held by the Institute of Control and Information Engineering, Poznan University of Technology.
