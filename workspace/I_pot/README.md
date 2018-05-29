@@ -12,9 +12,7 @@ The project consists of:
 - Switched-mode power supply 12V.
 
 Moisture level when pump is set on can be set via IDE, after compiling
-
-The remote control sends data in this way:
-- 
+ 
 ##Tools
 System Workbench for STM32 IDE
 
