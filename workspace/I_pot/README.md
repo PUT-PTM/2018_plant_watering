@@ -45,7 +45,7 @@ System Workbench for STM32 IDE
 ## How to compile
 Download the project and compile it with System Workbench for STM32 IDE.
 
-##Future improvements
+## Future improvements
 Posibility of extending for many plants
 
 ## Attributions
