@@ -46,7 +46,7 @@ System Workbench for STM32 IDE
 Download the project and compile it with System Workbench for STM32 IDE.
 
 ## Future improvements
-Posibility of extending for many plants
+Posibility of extending for many plants.
 
 ## Attributions
 * http://www.st.com/en/embedded-software/stm32-standard-peripheral-libraries.html?querycriteria=productId=LN1939
