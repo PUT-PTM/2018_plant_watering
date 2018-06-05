@@ -1,7 +1,7 @@
 # *IPot*
 
 ## Overview
-The project of a simple watering system with humidity measurement based on STM32F4-DISCOVERY board.  [STMIPot] (https://github.com/PUT-PTM/2018_plant_watering). [The movies] (https://drive.google.com/file/d/1kGmeSqZCRVhO3qLcpNGLJXfvGC6VG8cg/view?usp=sharing) show the project of a simple watering system with humidity measurement.
+The project of a simple watering system with humidity measurement based on STM32F4-DISCOVERY board. [STMIPot] (https://github.com/PUT-PTM/2018_plant_watering). [The movies] (https://drive.google.com/file/d/1kGmeSqZCRVhO3qLcpNGLJXfvGC6VG8cg/view?usp=sharing) show the project of a simple watering system with humidity measurement.
 
 ## Description
 The project consists of:
